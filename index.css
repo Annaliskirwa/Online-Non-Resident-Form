@@ -65,3 +65,13 @@ a:visited{
   background: #55ACEE;  
   color: white;  
 }  
+#img{
+  height: 500px;
+  width: 500px;
+}
+.links{
+  color:coral;
+  font-weight: 600;
+  top : 8px;
+  left: 10px;
+}
